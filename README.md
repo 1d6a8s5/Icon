@@ -11,4 +11,4 @@ Various icons are available in this repository, covering categories such as soci
 If you would like to request additional icons, please open an issue on the GitHub.
 
 # License
-This repository is licensed under the MIT License. See the LICENSE file for more details.
+This repository is licensed under the [MIT License](LICENSE). See the LICENSE file for more details.
